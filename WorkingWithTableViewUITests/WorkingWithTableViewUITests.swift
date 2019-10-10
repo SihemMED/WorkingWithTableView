@@ -2,8 +2,8 @@
 //  WorkingWithTableViewUITests.swift
 //  WorkingWithTableViewUITests
 //
-//  Created by Sofrecom2 on 7/1/16.
-//  Copyright © 2016 Simo. All rights reserved.
+//  Created by Sihem MOHAMED on 10/10/19.
+//  Copyright © 2019 Simo. All rights reserved.
 //
 
 import XCTest

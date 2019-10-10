@@ -16,6 +16,11 @@
 		7E2078F71D265CD90012979B /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 7E2078F51D265CD90012979B /* LaunchScreen.storyboard */; };
 		7E2079021D265CD90012979B /* WorkingWithTableViewTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7E2079011D265CD90012979B /* WorkingWithTableViewTests.swift */; };
 		7E20790D1D265CD90012979B /* WorkingWithTableViewUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7E20790C1D265CD90012979B /* WorkingWithTableViewUITests.swift */; };
+		7E20791C234F304A0012979B /* PlanetTableViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7E20791A234F304A0012979B /* PlanetTableViewCell.swift */; };
+		7E20791D234F304A0012979B /* PlanetTableViewCell.xib in Resources */ = {isa = PBXBuildFile; fileRef = 7E20791B234F304A0012979B /* PlanetTableViewCell.xib */; };
+		7E20791F234F35130012979B /* SMCardView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7E20791E234F35130012979B /* SMCardView.swift */; };
+		7E207921234F3ED50012979B /* planet.json in Resources */ = {isa = PBXBuildFile; fileRef = 7E207920234F3ED50012979B /* planet.json */; };
+		7E207923234F82CD0012979B /* PlanetDetailsViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7E207922234F82CD0012979B /* PlanetDetailsViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -51,6 +56,11 @@
 		7E2079081D265CD90012979B /* WorkingWithTableViewUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = WorkingWithTableViewUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		7E20790C1D265CD90012979B /* WorkingWithTableViewUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = WorkingWithTableViewUITests.swift; sourceTree = "<group>"; };
 		7E20790E1D265CD90012979B /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		7E20791A234F304A0012979B /* PlanetTableViewCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PlanetTableViewCell.swift; sourceTree = "<group>"; };
+		7E20791B234F304A0012979B /* PlanetTableViewCell.xib */ = {isa = PBXFileReference; lastKnownFileType = file.xib; path = PlanetTableViewCell.xib; sourceTree = "<group>"; };
+		7E20791E234F35130012979B /* SMCardView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SMCardView.swift; sourceTree = "<group>"; };
+		7E207920234F3ED50012979B /* planet.json */ = {isa = PBXFileReference; lastKnownFileType = text.json; path = planet.json; sourceTree = "<group>"; };
+		7E207922234F82CD0012979B /* PlanetDetailsViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PlanetDetailsViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -109,6 +119,11 @@
 				7E2078F51D265CD90012979B /* LaunchScreen.storyboard */,
 				7E2078F81D265CD90012979B /* Info.plist */,
 				7E2078F01D265CD80012979B /* WorkingWithTableView.xcdatamodeld */,
+				7E20791A234F304A0012979B /* PlanetTableViewCell.swift */,
+				7E20791B234F304A0012979B /* PlanetTableViewCell.xib */,
+				7E20791E234F35130012979B /* SMCardView.swift */,
+				7E207920234F3ED50012979B /* planet.json */,
+				7E207922234F82CD0012979B /* PlanetDetailsViewController.swift */,
 			);
 			path = WorkingWithTableView;
 			sourceTree = "<group>";
@@ -238,6 +253,8 @@
 				7E2078F71D265CD90012979B /* LaunchScreen.storyboard in Resources */,
 				7E2078F41D265CD90012979B /* Assets.xcassets in Resources */,
 				7E2078EF1D265CD80012979B /* Main.storyboard in Resources */,
+				7E207921234F3ED50012979B /* planet.json in Resources */,
+				7E20791D234F304A0012979B /* PlanetTableViewCell.xib in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -264,8 +281,11 @@
 			files = (
 				7E2078EC1D265CD80012979B /* ViewController.swift in Sources */,
 				7E2078E81D265CD80012979B /* AppDelegate.swift in Sources */,
+				7E207923234F82CD0012979B /* PlanetDetailsViewController.swift in Sources */,
 				7E2078EA1D265CD80012979B /* SceneDelegate.swift in Sources */,
 				7E2078F21D265CD80012979B /* WorkingWithTableView.xcdatamodeld in Sources */,
+				7E20791F234F35130012979B /* SMCardView.swift in Sources */,
+				7E20791C234F304A0012979B /* PlanetTableViewCell.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};

@@ -1,0 +1,94 @@
+{
+    "_comment": "/**references : https://solarsystem.nasa.gov/solar-system/our-solar-system/overview/ and https://www.universetoday.com/72305/order-of-the-planets-from-the-sun/  ***/",
+    "planets": [
+        {
+            "name": "Jupiter",
+            "diameter": 428400 ,
+            "mass": "1.8986 × 10^27 kg (317.8 Earths)",
+            "lengthOfYear": "11.9 Earth years",
+            "lengthOfDay": "9.8 Earth hours",
+            "description": "Jupiter is the fifth planet from the Sun, at a distance of about 778 million km (484 million miles) or 5.2 AU. Jupiter is also the most massive planet in our Solar System, being 317 times the mass of Earth, and two and half times larger than all the other planets combined. It is a gas giant, meaning that it is primarily composed of hydrogen and helium, with swirling clouds and other trace gases. \nJupiter’s atmosphere is the most intense in the Solar System. In fact, the combination of incredibly high pressure and coriolis forces produces the most violent storms ever witnessed. Wind speeds of 100 m/s (360 km/h) are common and can reach as high as 620 km/h (385 mph). In addition, Jupiter experiences auroras that are both more intense than Earth’s, and which never stop.",
+            "temperature": "-148 °C, (-234 F)",
+            "visitors": "Nine spacecraft have visited Jupiter. Seven flew by and two have orbited the gas giant. Juno, the most recent, arrived at Jupiter in 2016.",
+            "planetType": "Gas giant"
+        },
+        {
+            "name": "Saturn",
+            "diameter": 120500 ,
+            "mass": "5.6836 x 10^26 kg (95.159 Earths)",
+            "lengthOfYear": "29.5 Earth years",
+            "lengthOfDay": "10.7 Earth hours",
+            "description": "Saturn is the sixth planet from the Sun at a distance of about 1.4 billion km (886 million miles) or 9.5 AU. Like Jupiter, it is a gas giant, with layers of gaseous material surrounding a solid core. Saturn is most famous and most easily recognized for its spectacular ring system, which is made of seven rings with several gaps and divisions between them.\nSaturn’s atmosphere is made up mostly of hydrogen (H2) and helium (He).\nIf you weigh 45 kg (100 pounds) on Earth, you would weigh about 48 kg (107 pounds) on Saturn.\nSaturn has 53 known moons with an additional 9 moons awaiting confirmation.",
+            "temperature": "-178 °C (-288 F)",
+            "visitors": "Few missions have visited Saturn: Pioneer 11 and Voyagers 1 and 2 flew by; But Cassini orbited Saturn 294 times from 2004 to 2017",
+            "planetType": "Gas giant"
+        },
+        {
+            "name": "Neptune",
+            "diameter": 49530 ,
+            "mass": "1.0243 x 10^26 kg (17 Earths)",
+            "lengthOfYear": "165 Earth years",
+            "lengthOfDay": "16 Earth hours",
+            "description": "Neptune is the eighth and farthest planet from the Sun, at a distance of about 4.5 billion km (2.8 billion miles) or 30.07 AU. Like Jupiter, Saturn and Uranus, it is technically a gas giant, though it is more properly classified as an “ice giant” with Uranus.\nDue to its extreme distance from our Sun, Neptune cannot be seen with the naked eye, and only one mission has ever flown close enough to get detailed images of it. Nevertheless, what we know about it indicates that it is similar in many respects to Uranus, consisting of gases, ices, methane ice (which gives its color), and has a series of moons and faint rings.\nNeptune is mostly made of a very thick, very hot combination of water (H2O), ammonia (NH3), and methane (CH4) over a possible heavier, approximately Earth-sized, solid core.\nNeptune’s atmosphere is made up mostly of hydrogen (H2), helium (He) and methane (CH4).\nNeptune has 13 confirmed moons and 1 more awaiting official confirmation.\nNeptune has six rings.\nIf you weigh 45 kg (100 pounds) on Earth, you would weigh 52 kg (114 pounds) on Neptune.\nNeptune was the first planet to be predicted to exist by using math.",
+            "temperature": "-214 C (-353 F)",
+            "visitors": "Voyager 2 is the only spacecraft to have visited Neptune. No spacecraft has orbited this distant planet to study it at length and up close.",
+            "planetType": "Ice giant"
+        },
+        {
+            "name": "Uranus",
+            "diameter": 51120 ,
+            "mass": "14.6 Earth",
+            "lengthOfYear": "84 Earth years",
+            "lengthOfDay": "18 Earth hours",
+            "description": "Uranus is the seventh planet from the sun at a distance of about 2.9 billion km (1.8 billion miles) or 19.19 AU. Though it is classified as a “gas giant”, it is often referred to as an “ice giant” as well, owing to the presence of ammonia, methane, water and hydrocarbons in ice form. The presence of methane ice is also what gives it its bluish appearance.\nUranus is also the coldest planet in our Solar System, making the term “ice” seem very appropriate! What’s more, its system of moons experience a very odd seasonal cycle, owing to the fact that they orbit Neptune’s equator, and Neptune orbits with its north pole facing directly towards the Sun. This causes all of its moons to experience 42 year periods of day and night.\nMost of the planet’s mass is made up of a hot dense fluid of “icy” materials – water (H2O), methane (CH4). and ammonia (NH3) – above a small rocky core.\nUranus has an atmosphere which is mostly made up of hydrogen (H2) and helium (He), with a small amount of methane (CH4). The methane gives Uranus a blue-green tint.\nIf you weigh 45 kg (100 pounds) on Earth, you would weigh 41 kg (91 pounds) on Uranus.\nUranus has 27 moons.\nUranus has faint rings; the inner rings are narrow and dark and the outer rings are brightly colored.",
+            "temperature": "-216 C (-357 F)",
+            "visitors": "Voyager 2 is the only spacecraft to fly by Uranus. No spacecraft has orbited this distant planet to study it at length and up close.",
+            "planetType": "Ice giant"
+        },
+        {
+            "name": "Mars",
+            "diameter": 6787 ,
+            "mass": "6.4171 x 10^23 kg (0.107 Earths)",
+            "lengthOfYear": "687 Earth days.",
+            "lengthOfDay": "24 hours 37 minutes.",
+            "description": "Mars is the fourth planet from the sun at a distance of about 228 million km (142 million miles) or 1.52 AU. It is also known as “the Red Planet” because of its reddish hue, which is due to the prevalence of iron oxide on its surface. In many ways, Mars is similar to Earth, which can be seen from its similar rotational period and tilt, which in turn produce seasonal cycles that are comparable to our own.\nThe same holds true for surface features. Like Earth, Mars has many familiar surface features, which include volcanoes, valleys, deserts, and polar ice caps. But beyond these, Mars and Earth have little in common. The Martian atmosphere is too thin and the planet too far from our Sun to sustain warm temperatures, which average 210 K (-63 ºC) and fluctuate considerably.\nMars is the fourth terrestrial planet in our Solar System. Its rocky surface has been altered by volcanoes, impacts, and atmospheric effects such as dust storms.\nMars has a thin atmosphere made up mostly of carbon dioxide (CO2), nitrogen (N2) and argon (Ar).If you weigh 45 kg (100 pounds) on Earth, you would weigh 17 kg (38 pounds) on Mars.\nMars has two small moons, Phobos and Deimos.\nMars is known as the Red Planet because iron minerals in the Martian soil oxidize, or rust, causing the soil to look red.",
+            "temperature": "Average is about -55 C (-67 F), with ranges of -153 to +20 °C (-225 to +70 °F)",
+            "visitors": "Several missions have visited this planet, from flybys and orbiters to rovers on the surface.The first true Mars mission success was the Mariner 4 flyby in 1965.",
+            "planetType": "Terrestrial"
+        },
+        {
+            "name": "Earth",
+            "diameter": 12760 ,
+            "mass": "5.97 x 10^24 kg",
+            "lengthOfYear": "365 days",
+            "lengthOfDay": "24 hours (more precisely, 23 hours, 56 minutes and 4 seconds.)",
+            "description": "Our home, and the only planet in our Solar System (that we know of) that actively supports life. Our planet is the third from the our Sun, orbiting it at an average distance of 150 million km (93 million miles) from the Sun, or one AU. Given the fact that Earth is where we originated, and has all the necessary prerequisites for supporting life, it should come as no surprise that it is the metric on which all others planets are judged.\nEarth is another terrestrial planet with an ever-changing surface, and 70 percent of the Earth’s surface is covered in oceans.\nEarth has one moon.\nEarth’s atmosphere is 78% nitrogen, 21% oxygen, and 1% various other gases.",
+            "temperature": "Average is about 14 °C, (57 F), with ranges from -88 to 58 (min/max) °C (-126 to 136 F).",
+            "visitors": "Earth is the only world known to harbor life.",
+            "planetType": "Terrestrial"
+        },
+        {
+            "name": "Venus",
+            "diameter": 12104 ,
+            "mass": "4.867 x 10^24 kg (0.815 Earth mass)",
+            "lengthOfYear": "225 days",
+            "lengthOfDay": "243 Earth days",
+            "description": "Venus is the second closest planet to our Sun, orbiting at an average distance of 108 million km (67 million miles) or 0.72 AU. Venus is often called Earth’s “sister planet,” as it is just a little smaller than Earth. Venus is 81.5% as massive as Earth, and has 90% of its surface area and 86.6% of its volume. The surface gravity, which is 8.87 m/s², is equivalent to 0.904 g – roughly 90% of the Earth standard.\nAnd due to its thick atmosphere and proximity to the Sun, it is the Solar Systems hottest planet, with temperatures reaching up to a scorching 735 K (462 °C). To put that in perspective, that’s over four and a half times the amount of heat needed to evaporate water, and about twice as much needed to turn tin into molten metal (231.9 °C)!\nVenus’ thick and toxic atmosphere is made up mostly of carbon dioxide (CO2) and nitrogen (N2), with clouds of sulfuric acid (H2SO4) droplets.\nVenus has no moons.\nVenus spins backwards (retrograde rotation), compared to the other planets. This means that the sun rises in the west and sets in the east on Venus.\nIf you weigh 45 kg (100 pounds) on Earth, you would weigh 41 kg (91 pounds) on Venus.\nVenus is also known and the “morning star” or “evening star” because it is often brighter than any other object in the sky and is usually seen either at dawn or at dusk. Since it is so bright, it has often been mistaken for a UFO!",
+            "temperature": "462 degrees °C (864 degrees F)",
+            "visitors": "More than 40 spacecraft have explored Venus. The ‘90s Magellan mission mapped the planet's surface and Akatsuki is currently orbiting Venus.",
+            "planetType": "Terrestrial"
+        },
+        {
+            "name": "Mercury",
+            "diameter": 4879,
+            "mass": "3.3011 x 10^23 kg (0.055 Earths)",
+            "lengthOfYear": "87.97 Earth days",
+            "lengthOfDay": "59 Earth days.",
+            "description": "Mercury is the closest planet to our Sun, at just 58 million km (36 million miles) or 0.39 Astronomical Unit (AU) out. But despite its reputation for being sun-baked and molten, it is not the hottest planet in our Solar System (scroll down to find out who that dubious honor goes go!)\nMercury is also the smallest planet in our Solar System, and is also smaller than its largest moon (Ganymede, which orbits Jupiter). And being equivalent in size to 0.38 Earths, it is just slightly larger than the Earth’s own Moon. But this may have something to do with its incredible density, being composed primarily of rock and iron ore\nMercury is a rocky planet, one of the four “terrestrial planets” in our Solar System. Mercury has a solid, cratered surface, and looks much like Earth’s moon.\nIf you weigh 45 kg (100 pounds) on Earth, you would weigh 17 kg (38 pounds) on Mercury.\nMercury does not have any moons.",
+            "temperature": "range between -173 to 427 degrees Celcius (-279 to 801 degrees Fahrenheit)",
+            "visitors": "The two spacecraft of ESA-JAXA's BepiColombo are en route to Mercury. NASA's Mariner 10 was the first mission to explore Mercury. NASA's MESSENGER was the first to orbit the innnermost planet.",
+            "planetType": "Terrestrial"
+        }
+    ]
+
+}
